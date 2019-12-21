@@ -1,0 +1,3 @@
+# ninja log v5
+0	228	1576966303	CMakeFiles/native-lib.dir/native-lib.cpp.o	561fbe2aeef81928
+228	261	1576966303	/home/yanbing/work/android_project/algorithm/algorithm/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so	1160d52b0506347d

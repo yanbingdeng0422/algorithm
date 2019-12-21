@@ -1,0 +1,7 @@
+Executable : /home/yanbing/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cmake/debug/armeabi-v7a
+native-lib
+jvmArgs : 
+

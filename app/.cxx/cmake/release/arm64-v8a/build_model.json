@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/home/yanbing/work/android_project/algorithm/algorithm",
+      "sdkFolder": "/home/yanbing/Android/Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/home/yanbing/work/android_project/algorithm/algorithm/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/home/yanbing/work/android_project/algorithm/algorithm/app",
+      "makeFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/home/yanbing/work/android_project/algorithm/algorithm/.cxx",
+      "cxxFolder": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx",
+      "ndkFolder": "/home/yanbing/Android/Sdk/ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "/home/yanbing/work/android_project/algorithm/algorithm/app/build/intermediates/cmake/release/lib",
+    "objFolder": "/home/yanbing/work/android_project/algorithm/algorithm/app/build/intermediates/cmake/release/obj",
+    "jsonFolder": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARM64_V8A",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cmake/release/arm64-v8a",
+  "jsonFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cmake/release/arm64-v8a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cxx/release/arm64-v8a",
+  "objFolder": "/home/yanbing/work/android_project/algorithm/algorithm/app/build/intermediates/cmake/release/obj/arm64-v8a",
+  "buildCommandFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cmake/release/arm64-v8a/build_command.txt",
+  "buildOutputFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cmake/release/arm64-v8a/build_output.txt",
+  "modelOutputFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cmake/release/arm64-v8a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cxx/release/arm64-v8a/CMakeLists.txt",
+    "toolchainWrapperFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cxx/release/arm64-v8a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cxx/release/arm64-v8a/build_generation_state.json",
+    "cacheKeyFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cxx/release/arm64-v8a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cxx/release/arm64-v8a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cxx/release/arm64-v8a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cxx/release/arm64-v8a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cmake/release/arm64-v8a/json_generation_record.json",
+  "compileCommandsJsonFile": "/home/yanbing/work/android_project/algorithm/algorithm/app/.cxx/cmake/release/arm64-v8a/compile_commands.json"
+}
